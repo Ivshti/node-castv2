@@ -1,12 +1,12 @@
 {
   "name": "castv2",
-  "version": "0.1.4",
+  "version": "0.1.9",
   "description": "An implementation of the Chromecast CASTV2 protocol",
   "author": "thibauts",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "debug": "~0.8.1",
+    "debug": "^2.2.0",
     "protobufjs": "^3.2.2"
   },
   "scripts": {
